@@ -4,7 +4,7 @@ let arr1 = [1,2,3,4,5,6,true]
 //case:1 accessing elements of an array in normal way
 // let x = arr1[2]
 // let y = arr1[7]
-// console.log(x,y);   //3 undefined
+// console.log(x,y);     //3 undefined
 
 //case:2 accessing first 2 elements of an array
 // let [x,z] = arr1

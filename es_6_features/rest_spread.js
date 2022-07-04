@@ -8,7 +8,7 @@
 // var arr1=[10,20,30,40]
 // var arr2=[50,60,70]
 // var arr3=[...arr1,...arr2]
-// console.log(arr3);         //  10, 20, 30, 40,50, 60, 70]
+// console.log(arr3);         // [10, 20, 30, 40,50, 60, 70]
 
 //eg2 spread combining the existing arrays
 // var arr1=[20,30,40,50]

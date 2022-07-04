@@ -16,7 +16,7 @@ var myself ={
 //case3: change the reference variable => so that we can declare our own reference variable
 //fname in object myself will be renamed as myname
 let{fname : myname} = myself
-console.log(myname);           //S
-console.log(myself.fname);     //S
+console.log(myname);             //S
+console.log(myself.fname);       //S
 //console.log(fname);            //error fname is not defined
 console.log(myself);              //{ fname: 'S', lname: 'K' }
